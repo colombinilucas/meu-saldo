@@ -1,0 +1,1 @@
+PDF.js 6.2.108 (Mozilla, licença Apache 2.0) — usado só para ler o texto de extratos em PDF dentro do aparelho.
